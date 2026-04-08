@@ -1,4 +1,4 @@
-FROM openjdk:7-jre-alpine
+FROM registry.access.redhat.com/ubi8/openjdk-8:latest
 
 MAINTAINER wahome <kevowahome@gmail.com>
 
