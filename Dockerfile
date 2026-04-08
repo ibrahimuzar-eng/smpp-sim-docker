@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi8/openjdk-8:latest
+FROM eclipse-temurin:8-jre-alpine
 
 MAINTAINER wahome <kevowahome@gmail.com>
 
