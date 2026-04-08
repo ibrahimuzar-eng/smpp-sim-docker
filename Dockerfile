@@ -1,4 +1,4 @@
-FROM openjdk:7-jre-alpine
+FROM eclipse-temurin:8-jre-alpine
 
 MAINTAINER wahome <kevowahome@gmail.com>
 
